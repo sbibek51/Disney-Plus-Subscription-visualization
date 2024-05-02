@@ -1,1 +1,2 @@
 # Disney-Plus-Subscription-visualization
+The main aim of the small project is to provide an overview of Disney+ subscription services, focusing on key features such as the content library and subscription plans. The dataset encompasses a diverse range of content, including movies and TV shows from various genres and countries. The analysis aims to provide insights into the distribution of content based on release year, genres, and countries, as well as trends in content addition over time.
